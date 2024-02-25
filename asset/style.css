@@ -54,6 +54,7 @@ ul {
   text-align: center;
   margin: 0 auto;
   animation: moves 1.8s infinite;
+  height: 1100px;
 }
 .swiper-container {
   width: 100%;
